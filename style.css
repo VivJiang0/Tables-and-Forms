@@ -1,0 +1,8 @@
+table,th,td{
+  border:3px solid #9276f8;
+  border-collapse:collapse;
+}
+table{
+  text-align:center;
+  margin:auto;
+}
